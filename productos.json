@@ -1,0 +1,60 @@
+
+
+[
+  {
+    "id": 1,
+    "nombre": "Figura Goku Niño",
+    "precio": 19990,
+    "categoria": "figuras",
+    "imagen": "https://www.geekz.cl/web/image/product.product/20699/image?unique=b5d3198"
+  },
+  {
+    "id": 2,
+    "nombre": "Figura Mazinger Z",
+    "precio": 34990,
+    "categoria": "figuras",
+    "imagen": "https://www.geekz.cl/web/image/product.product/20570/image?unique=2ca4120"
+  },
+  {
+    "id": 3,
+    "nombre": "Figura Gohan",
+    "precio": 27990,
+    "categoria": "figuras",
+    "imagen": "https://www.geekz.cl/web/image/product.product/21343/image?unique=b5d3198"
+  },
+  {
+    "id": 4,
+    "nombre": "Figura Entei",
+    "precio": 22990,
+    "categoria": "figuras",
+    "imagen": "https://www.geekz.cl/web/image/product.product/21745/image?unique=9fc6597"
+  },
+  {
+    "id": 5,
+    "nombre": "Polera Naruto Negra",
+    "precio": 14990,
+    "categoria": "poleras",
+    "imagen": "https://picsum.photos/id/1005/600/400"
+  },
+  {
+    "id": 6,
+    "nombre": "Polera Dragon Ball Azul",
+    "precio": 15990,
+    "categoria": "poleras",
+    "imagen": "https://picsum.photos/id/1011/600/400"
+  },
+  {
+    "id": 7,
+    "nombre": "Polera One Piece Blanca",
+    "precio": 13990,
+    "categoria": "poleras",
+    "imagen": "https://picsum.photos/id/1025/600/400"
+  },
+  {
+    "id": 8,
+    "nombre": "Polera Attack on Titan Gris",
+    "precio": 16990,
+    "categoria": "poleras",
+    "imagen": "https://picsum.photos/id/1035/600/400"
+  }
+]
